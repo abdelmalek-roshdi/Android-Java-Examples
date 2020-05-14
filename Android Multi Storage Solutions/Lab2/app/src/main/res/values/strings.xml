@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="message">Message</string>
+    <string name="phone">Pohne</string>
+    <string name="next">Next</string>
+    <string name="close">Close</string>
+    <string name="writesh">Write SH</string>
+    <string name="readsh">Read SH</string>
+    <string name="writeis">Write IS</string>
+    <string name="readsis">Read IS</string>
+    <string name="readsql">Read SQLite</string>
+    <string name="writesql">Write SQLite</string>
+</resources>

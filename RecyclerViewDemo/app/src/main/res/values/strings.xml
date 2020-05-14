@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <bool name="twoPane">false</bool>
+</resources>

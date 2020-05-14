@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">المعمل 2</string>
+    <string name="message">الرسالة</string>
+    <string name="phone">الهاتف</string>
+    <string name="next">التالي</string>
+    <string name="close">اغلاق</string>
+    <string name="writesh">كتابة SH</string>
+    <string name="readsh">قراءة SH</string>
+    <string name="writeis">كتابة IS</string>
+    <string name="readsis">قراءة IS</string>
+    <string name="readsql">قراءة SQLite</string>
+    <string name="writesql">كتابة SQLite</string>
+</resources>
